@@ -6,6 +6,7 @@
 ##
 *.pyd
 _skbuild/
+_build/
 
 ### CMake ###
 CMakeLists.txt.user

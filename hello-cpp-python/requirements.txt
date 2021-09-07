@@ -1,0 +1,5 @@
+cmake==3.21.2
+distro==1.6.0
+packaging==21.0
+pyparsing==2.4.7
+scikit-build==0.12.0
